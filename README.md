@@ -1,1 +1,3 @@
-Credit: https://github.com/MarkSackerberg/umi-cmv3-ui-inofficial
+Credit: https://github.com/MarkSackerberg/umi-cmv3-ui-inofficial  
+Mint Page: https://solara-archipelago.web.app    
+Game Client Source Code: https://github.com/XuanVuFsv/Solara-Archipelago
