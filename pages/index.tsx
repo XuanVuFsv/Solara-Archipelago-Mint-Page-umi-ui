@@ -17,6 +17,23 @@ import { ShowNft } from "../components/showNft";
 import { InitializeModal } from "../components/initializeModal";
 import { image, headerText } from "../settings";
 import { useSolanaTime } from "@/utils/SolanaTimeContext";
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyDZTMRhr88Qxa0Fv2Wv0pBIlCrlSiXwr-4",
+  authDomain: "solara-archipelago.firebaseapp.com",
+  projectId: "solara-archipelago",
+  storageBucket: "solara-archipelago.firebasestorage.app",
+  messagingSenderId: "840419369093",
+  appId: "1:840419369093:web:8c5cfc430d4e9f38a4c9ec"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
 
 const WalletMultiButtonDynamic = dynamic(
   async () =>
