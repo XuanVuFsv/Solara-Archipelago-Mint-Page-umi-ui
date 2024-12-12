@@ -24,12 +24,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDZTMRhr88Qxa0Fv2Wv0pBIlCrlSiXwr-4",
+  apiKey: "",
   authDomain: "solara-archipelago.firebaseapp.com",
   projectId: "solara-archipelago",
   storageBucket: "solara-archipelago.firebasestorage.app",
   messagingSenderId: "840419369093",
-  appId: "1:840419369093:web:8c5cfc430d4e9f38a4c9ec"
+  appId: ""
 };
 
 // Initialize Firebase
