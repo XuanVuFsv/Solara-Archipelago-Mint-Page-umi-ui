@@ -1,6 +1,8 @@
 Credit: https://github.com/MarkSackerberg/umi-cmv3-ui-inofficial  
 Mint Page: https://solara-archipelago.web.app    
-Game Client Source Code: https://github.com/XuanVuFsv/Solara-Archipelago    
+Game Client Source Code: https://github.com/XuanVuFsv/Solara-Archipelago  
+NFT Collection: https://explorer.solana.com/address/BmgzwR4a4AwUiLZh31V9nzSdRfNJpGzFrXRYA26gqf4E?cluster=devnet  
+https://explorer.solana.com/address/HserkR2SN3DdLgWY6CqVe97oqXpZQyqEyfv1H8jjhHHq?cluster=devnet    
 
 
 # How to run  
