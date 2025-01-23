@@ -1,0 +1,23 @@
+{
+  "name": "Solara Lands",
+  "symbol": "SLAND",
+  "image": "collection.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png/webp"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "44b9qJ3trU1WWQ7omriKVRWpDvqRucis5WhNXPRezYqL",
+        "share": 100
+      }
+    ]
+  },
+  "description": "A set of test Land NFTs for the Solara Archipelago",
+  "seller_fee_basis_points": 500,
+    "attributes": []
+}
